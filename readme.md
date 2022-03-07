@@ -1,6 +1,6 @@
-# Nuxt-with-docker
+# Nuxt-2-with-docker
 
-Docker-composeでnuxt.jsの開発環境を構築する物です。
+Docker-composeでnuxt.js 2.xの開発環境を構築する物です。
 
 ## Requirements
 
