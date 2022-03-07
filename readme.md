@@ -30,4 +30,4 @@ yarn create nuxt-app . --overwrite-dir
 yarn dev
 ```
 
-For more information, see <https://zenn.dev/szn/articles/8d3602dde2eb1c>
+For more information, see <https://zenn.dev/szn/articles/nuxt-2-with-docker-compose>
