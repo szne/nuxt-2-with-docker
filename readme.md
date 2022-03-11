@@ -13,8 +13,8 @@ Docker-composeでnuxt.js 2.xの開発環境を構築する物です。
 GitHubからクローンしてコンテナを立ち上げる
 
 ```cmd
-git clone https://github.com/szne/nuxt-with-docker.git
-ren nuxt-with-docker your-project-name
+git clone https://github.com/szne/nuxt-2-with-docker.git
+ren nuxt-2-with-docker your-project-name
 cd your-project-name
 docker compose up -d
 ```
